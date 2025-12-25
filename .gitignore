@@ -3,3 +3,4 @@ vars.tfvars
 **/.terraform/*
 kind-cluster-config
 *.tfstate
+*.tfstate.*
