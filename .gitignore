@@ -1,1 +1,5 @@
 vars.tfvars
+.terraform.lock.hcl
+**/.terraform/*
+kind-cluster-config
+*.tfstate
